@@ -21,6 +21,6 @@ Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
 
 
